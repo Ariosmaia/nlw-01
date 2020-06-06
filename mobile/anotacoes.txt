@@ -1,0 +1,39 @@
+// iniciar projeto 
+expo init mobile
+
+// fontes no expo
+https://github.com/expo/google-fonts
+expo install @expo-google-fonts/ubuntu @expo-google-fonts/roboto expo-font
+
+// navegação entre rotas
+https://reactnavigation.org/
+yarn add @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+// navegação stack
+yarn add @react-navigation/stack
+
+// usar mapas no react native
+expo install react-native-maps
+
+// usar as contantes do expo
+expo install constants
+
+// para usar svg
+expo install react-native-svg
+
+// instalar o axios
+yarn add axios
+
+// localização do usuario
+expo install expo-location
+
+// compor email
+https://docs.expo.io/versions/latest/sdk/mail-composer/
+expo install expo-mail-composer
+
+// select para react native
+https://www.npmjs.com/package/react-native-picker-select
+
+// validações
+https://github.com/jquense/yup
