@@ -1,0 +1,50 @@
+// inciar projeto
+npm init -y
+
+// para trabalhar com rotas
+npm install express
+
+// definições de tipo para o express
+npm install @types/express -D
+
+// type script node
+npm install ts-node -D
+
+// instalar o typescript
+npm install typescript -D
+
+// para gerar o arquivo de configração do typescrit
+npx tsc --init
+
+//npx para execupar pacotes node
+npx ts-node src/server.ts
+
+// para ficar observando o código e executar novamente
+npm install ts-node-dev -D
+
+// para acessar o banco de dados
+npm install knex
+
+// pacote do sqlite3
+npm install sqlite3
+
+// rodar a migrations
+npx knex migrate:latest --knexfile knexfile.ts migrate:latest
+
+// instalar pacote do sqlite no vs code
+
+// para ver atalhos
+ctrl + shift p = shortcuts
+
+// usar o cors
+npm install cors
+npm install @types/cors -D
+
+// pacote para usar uploads de imagens
+npm install multer
+npm install @types/multer -D
+
+// validações
+https://github.com/arb/celebrate
+npm install celebrate
+npm install @types/hapi__joi -D
