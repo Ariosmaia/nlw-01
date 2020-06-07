@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/static/v1?label=react-native&message=mobile&color=61DAFB&style=flat&logo=REACT"/>
 	</a>
 	<a href="https://nodejs.org/en/">
-		<img src="https://img.shields.io/static/v1?label=nodejs&message=back-end&color=76d04b&style=flat&logo=node.js"/>
+		<img src="https://img.shields.io/static/v1?label=node%20js&message=back-end&color=76d04b&style=flat&logo=node.js"/>
 	</a>
 	<a href="https://www.typescriptlang.org/">
 		<img src="https://img.shields.io/static/v1?label=typescript&message=Language&color=007acc&style=flat&logo=TypeScript"/>
