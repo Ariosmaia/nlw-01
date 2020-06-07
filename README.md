@@ -31,7 +31,7 @@
 - [Descrição do projeto](#clipboard-descrição-do-projeto)
 - [Pré-requisitos](#point_right-pré-requisitos)
 - [Libs Instaladas](#open_file_folder-libs-instaladas)
-- [Como Rodar a aplicão](#arrow_forward-como-rodar-a-aplicação)
+- [Como Rodar a aplicacão](#arrow_forward-como-rodar-a-aplicação)
 - [Database](#floppy_disk-database)
 - [Licença](#memo-licença)
 
@@ -55,7 +55,7 @@ A ideia de desenvolver esta aplicação surgiu por causa da <strong>semana do me
 - [Front-end](https://github.com/Ariosmaia/nlw-01/blob/master/web/README-PACKAGES.md)
 - [Mobile](https://github.com/Ariosmaia/nlw-01/blob/master/mobile/README-PACKAGES.md)
 
-## :arrow_forward: Como Rodar a aplicão
+## :arrow_forward: Como Rodar a aplicacão
 No terminal, clone o projeto:
 ```
 git clone https://github.com/Ariosmaia/nlw-01.git
