@@ -27,11 +27,90 @@
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
+### Tópicos
+- [Descrição do projeto](#clipboard-descrição-do-projeto)
+- [Pré-requisitos](#point_right-pré-requisitos)
+- [Libs Instaladas](#open_file_folder-libs-instaladas)
+- [Como Rodar a aplicão](#arrow_forward-como-rodar-a-aplicação)
+- [Database](#database)
+- Licença(#licença)
 
 
+## :clipboard: Descrição do projeto
+
+O projeto <strong>Ecoleta</strong> é uma aplicação Web e Mobile para ajudar as pessoas a encontrarem pontos de coleta para reciclagem.
+
+Aplicação foi desenvolvida na <strong>Next Level Week</strong> na trila <strong>Booster</strong> e distribuída pela :rocket: [Rocketseat](https://rocketseat.com.br/).
+A ideia de desenvolver esta aplicação surgiu por causa da <strong>semana do meio ambiente</strong>, mesma semana que foi ministrado os cursos da <strong>NLW</strong>.
+
+## :point_right: Pré-requisitos
+
+:warning: [Node](https://nodejs.org/en/download/)
+
+:warning: [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable) 
 
 
+## :open_file_folder: Libs Instaladas
+- [Back-end](https://github.com/Ariosmaia/nlw-01/blob/master/server/README-PACKAGES.md)
+- [Front-end](https://github.com/Ariosmaia/nlw-01/blob/master/web/README-PACKAGES.md)
+- [Mobile](https://github.com/Ariosmaia/nlw-01/blob/master/mobile/README-PACKAGES.md)
 
+## :arrow_forward: Como Rodar a aplicão
+No terminal, clone o projeto:
+```
+git clone https://github.com/Ariosmaia/nlw-01.git
+```
 
+Entre na pasta de cada projeto:
 
+<br/>
 
+ :gear: <strong>Back-end</strong>
+ 
+```
+cd server
+```
+   - Instale as dependencias:
+```
+npm install
+```
+  - Execute a aplicação
+```
+npm run dev
+```
+<br/>
+
+ :computer:<strong>Web<strong>
+	
+```
+cd web
+```
+   - Instale as dependencias:
+```
+yarn
+```
+  - Execute a aplicação
+```
+yarn start
+```
+<br/>
+
+ :iphone: <strong>Mobile<strong>
+	
+ > :exclamation: Para rodar a aplicação mobile é necessário ter o expo instaldo globalmente:
+ > [Ver documentação](https://docs.expo.io/)
+ >
+ > ```
+ > npm install expo-cli --global
+ > ```
+```
+cd mobile
+```
+   - Instale as dependencias:
+```
+yarn
+```
+  - Execute a aplicação
+```
+yarn start
+```
