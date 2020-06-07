@@ -95,7 +95,7 @@ yarn start
 ```
 <br/>
 
- :iphone: <strong>Mobile<strong>
+ :iphone: <strong>Mobile</strong>
 	
  > :exclamation: Para rodar a aplicação mobile é necessário ter o expo instaldo globalmente:
  > [Ver documentação](https://docs.expo.io/)
@@ -103,6 +103,7 @@ yarn start
  > ```
  > npm install expo-cli --global
  > ```
+ 
 ```
 cd mobile
 ```
