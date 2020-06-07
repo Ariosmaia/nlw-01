@@ -20,8 +20,8 @@
 		<img src="https://img.shields.io/static/v1?label=made%20by&message=rocketseat&color=7159c1&style=for-the-badge"/>	
 	</a>
 	<br/>
-	<a href="https://insomnia.rest/run/?label=ecoleta&uri=https%3A%2F%2Fgithub.com%2FAriosmaia%2Fnlw-	  01%2Fblob%2Fmaster%2F.github%2FInsomnia_2020-06-07.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
-	</a>
+	<br/>
+	<a href="https://insomnia.rest/run/?label=Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FAriosmaia%2Fnlw-01%2Fmaster%2F.github%2FInsomnia_2020-06-07.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 	<br/>
 	<a>
 		<img alt="GitHub" src="https://img.shields.io/github/license/ariosmaia/nlw-01">
