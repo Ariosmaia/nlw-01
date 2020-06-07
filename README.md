@@ -32,8 +32,8 @@
 - [Pré-requisitos](#point_right-pré-requisitos)
 - [Libs Instaladas](#open_file_folder-libs-instaladas)
 - [Como Rodar a aplicão](#arrow_forward-como-rodar-a-aplicação)
-- [Database](#database)
-- Licença(#licença)
+- [Database](#floppy_disk-database)
+- [Licença](#memo-licença)
 
 
 ## :clipboard: Descrição do projeto
@@ -115,3 +115,20 @@ yarn
 ```
 yarn start
 ```
+
+#### :floppy_disk: Database
+ - Banco de dados SQLite
+ - Rodar as migratios para gerar o bando de dados automatocamente:
+ ```
+ npm run knex:migrate
+ ```
+ - Popular bando de dados com dados iniciais:
+ ```
+ knex:seed
+ ```
+ 
+ ## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
