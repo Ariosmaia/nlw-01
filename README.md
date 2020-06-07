@@ -20,12 +20,17 @@
 		<img src="https://img.shields.io/static/v1?label=made%20by&message=rocketseat&color=7159c1&style=for-the-badge"/>	
 	</a>
 	<br/>
+	<br/>
+	<a href="https://insomnia.rest/run/?label=Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FAriosmaia%2Fnlw-01%2Fmaster%2F.github%2FInsomnia_2020-06-07.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+	<br/>
 	<a>
 		<img alt="GitHub" src="https://img.shields.io/github/license/ariosmaia/nlw-01">
 	</a>
 </p>
 
 > Status do Projeto: Concluido :heavy_check_mark:
+>
+> Layout disponível no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)
 
 ### Tópicos
 - [Descrição do projeto](#clipboard-descrição-do-projeto)
@@ -116,15 +121,15 @@ yarn
 yarn start
 ```
 
-#### :floppy_disk: Database
+## :floppy_disk: Database
  - Banco de dados SQLite
- - Rodar as migratios para gerar o bando de dados automatocamente:
+ - Rodar as migratios para gerar o bando de dados automaticamente:
  ```
  npm run knex:migrate
  ```
- - Popular bando de dados com dados iniciais:
+ - Popular dados iniciais no banco:
  ```
- knex:seed
+ npm run knex:seed
  ```
  
  ## :memo: Licença
