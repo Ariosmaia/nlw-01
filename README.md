@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo" title="#logo" width="100%" src=".github/capa.jpg">
+	<img alt="Logo" title="#logo" width="100%" src="https://github.com/Ariosmaia/nlw-01/blob/master/.github/capa.JPG">
 </h1>
 
 
