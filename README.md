@@ -80,7 +80,7 @@ npm run dev
 ```
 <br/>
 
- :computer:<strong>Web<strong>
+ :computer:<strong>Web</strong>
 	
 ```
 cd web
