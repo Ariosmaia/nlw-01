@@ -127,7 +127,7 @@ yarn start
  ```
  npm run knex:migrate
  ```
- - Popular dados iniciais no banco:
+ - Popular dados iniciais no banco sqlite:
  ```
  npm run knex:seed
  ```
